@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Pixie Chain</title>
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+  <meta name="description" content="Pixie Chain">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0">
+  <link rel="stylesheet" href="https://assets.pixie.mobi/chain-docs/css/vue.css">
+</head>
+<body>
+  <div id="app"></div>
+  <script>
+    window.$docsify = {
+      repo: 'pixie-chain/pixie-chain-docs',
+      loadSidebar: true,
+      subMaxLevel: 2,
+      homepage: 'intro.md',
+      loadSidebar: 'sidebar.md',
+      loadNavbar: 'navbar.md',
+      name: 'Pixie Chain',
+      auto2top: true,
+      markdown: {
+        gfm: true,
+        tables: true,
+      },
+      themeColor: '#47b1de',
+      pagination: {
+        previousText: '',
+        nextText: '',
+      },
+      tabs: {
+        persist    : true,      // default
+        sync       : true,      // default
+        theme      : 'classic', // default
+        tabComments: true,      // default
+        tabHeadings: true       // default
+      },
+      remoteMarkdown: {
+        tag: 'remoteMarkdownUrl', 
+      }
+    }
+  </script>
+  <script src="https://assets.pixie.mobi/chain-docs/js/docsify.min.js"></script>
+  <script src="https://assets.pixie.mobi/chain-docs/js/search.min.js"></script>
+  <script src="https://assets.pixie.mobi/chain-docs/js/docsify-pagination.min.js"></script>
+  <script src="https://assets.pixie.mobi/chain-docs/js/prism-bash.min.js"></script>
+  <script src="https://assets.pixie.mobi/chain-docs/js/prism-json.min.js"></script>
+  <script src="https://assets.pixie.mobi/chain-docs/js/prism-javascript.min.js"></script>
+  <script src="https://assets.pixie.mobi/chain-docs/js/prism-typescript.min.js"></script>
+  <script src="https://assets.pixie.mobi/chain-docs/js/prism-rust.min.js"></script>
+  <script src="https://assets.pixie.mobi/chain-docs/js/prism-c.min.js"></script>
+  <script src="https://assets.pixie.mobi/chain-docs/js/prism-graphql.min.js"></script>
+  <script src="https://assets.pixie.mobi/chain-docs/js/prism-makefile.min.js"></script>
+  <script src="https://assets.pixie.mobi/chain-docs/js/prism-diff.min.js"></script>
+  <script src="https://assets.pixie.mobi/chain-docs/js/docsify-tabs@1.js"></script>
+  <script src="https://assets.pixie.mobi/chain-docs/js/docsify-plugin-flexible-alerts.min.js"></script>
+</body>
+</html>
