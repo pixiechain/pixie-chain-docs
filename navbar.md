@@ -1,3 +1,3 @@
-- [Homepage](https://chain.pixie.mobi/)
+- [Homepage](https://chain.pixie.xyz/)
 - Translations
   - [:us: English](/)

@@ -10,4 +10,4 @@ Welcome to Pixie Chain Docs Site.
 
 Contact us via support email or social media.
 
-<DevContacts@pixie.mobi>
+<DevContacts@pixie.xyz>

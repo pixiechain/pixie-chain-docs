@@ -9,14 +9,14 @@
 ## RPC
 
 ```
-https://http-mainnet.chain.pixie.mobi
-wss://ws-mainnet.chain.pixie.mobi
+https://http-mainnet.chain.pixie.xyz
+wss://ws-mainnet.chain.pixie.xyz
 ```
 
 ## Explorer
 
 ```
-https://scan.chain.pixie.mobi
+https://scan.chain.pixie.xyz
 ```
 
 # P2P Nodes

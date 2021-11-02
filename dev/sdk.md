@@ -18,7 +18,7 @@ Use `Ethereum` SDK library such as `web3j`,`web3js`, etc for development.
 const Web3 = require('web3')
 
 async function getChainId() {
-    const web3 = new Web3('https://http-mainnet.chain.pixie.mobi')
+    const web3 = new Web3('https://http-mainnet.chain.pixie.xyz')
     let chainId = await web3.eth.getChainId()
     console.log(`chain id: ${chainId}`)
     return chainId
@@ -39,7 +39,7 @@ console.log(`account generated. address: ${account.address}, private key: ${acco
 const Web3 = require('web3')
 
 async function transfer(fromAccount, to, value){
-    const web3 = new Web3('https://http-mainnet.chain.pixie.mobi')
+    const web3 = new Web3('https://http-mainnet.chain.pixie.xyz')
     let chainId = await web3.eth.getChainId()
     let nonce = await web3.eth.getTransactionCount(fromAccount.address)
     let gasPrice = await web3.eth.getGasPrice()

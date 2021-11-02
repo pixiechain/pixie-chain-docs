@@ -8,4 +8,4 @@ Pixie Chain will be officially launched on August 30, 2021.
 
 - Pixie Chain Official Site
 
-  <https://chain.pixie.mobi>
+  <https://chain.pixie.xyz>

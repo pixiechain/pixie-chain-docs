@@ -9,14 +9,14 @@
 ## RPC
 
 ```
-https://http-testnet.chain.pixie.mobi
-wss://ws-testnet.chain.pixie.mobi
+https://http-testnet.chain.pixie.xyz
+wss://ws-testnet.chain.pixie.xyz
 ```
 
 ## Explorer
 
 ```
-https://scan-testnet.chain.pixie.mobi
+https://scan-testnet.chain.pixie.xyz
 ```
 
 ## Faucet
@@ -24,5 +24,5 @@ https://scan-testnet.chain.pixie.mobi
 Automatically send 5 PIX to your testnet account, and you can only request once a hour.
 
 ```
-https://chain.pixie.mobi/faucet
+https://chain.pixie.xyz/faucet
 ```

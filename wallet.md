@@ -11,8 +11,8 @@ Add custom network
 ## Mainnet
 
 - ChainId: 6626
-- RPC: https://http-mainnet.chain.pixie.mobi
-- Explorer: https://scan.chain.pixie.mobi
+- RPC: https://http-mainnet.chain.pixie.xyz
+- Explorer: https://scan.chain.pixie.xyz
 - Currency Symbol: PIX
 
 ![metamask](images/metamask_en.png)
@@ -20,6 +20,6 @@ Add custom network
 ## Testnet
 
 - ChainId: 666
-- RPC: https://http-testnet.chain.pixie.mobi
-- Explorer: https://scan-testnet.chain.pixie.mobi
+- RPC: https://http-testnet.chain.pixie.xyz
+- Explorer: https://scan-testnet.chain.pixie.xyz
 - Currency Symbol: PIX

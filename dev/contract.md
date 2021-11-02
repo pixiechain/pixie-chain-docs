@@ -78,11 +78,11 @@ const mnemonic = fs.readFileSync(".secret").toString().trim();
 module.exports = {
   networks: {
     testnet: {
-      provider: () => new HDWalletProvider(mnemonic, 'https://http-testnet.chain.pixie.mobi'),
+      provider: () => new HDWalletProvider(mnemonic, 'https://http-testnet.chain.pixie.xyz'),
       network_id: 待定
     },
     mainnet: {
-      provider: () => new HDWalletProvider(mnemonic, 'https://http-mainnet.chain.pixie.mobi'),
+      provider: () => new HDWalletProvider(mnemonic, 'https://http-mainnet.chain.pixie.xyz'),
       network_id: 待定
     }
   },
