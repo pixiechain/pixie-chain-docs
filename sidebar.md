@@ -12,7 +12,7 @@
     - [Graph Node](dev/graphnode.md)
     - [Mainnet](mainnet.md)
     - [Testnet](testnet.md)
-    - [PRC20](dev/prc20.md)
+    - [ERC20](dev/prc20.md)
     - [WalletConnect](dev/wallet-connect.md)
     - [Txpool](dev/txpool.md)
 - [Announcement](Announcement.md)
