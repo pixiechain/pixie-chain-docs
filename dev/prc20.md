@@ -1,4 +1,4 @@
-# PRC20 Token Standard
+# ERC20 Token Standard
 
 Pixie Chain is fully compatible with [ERC20](https://eips.ethereum.org/EIPS/eip-20) standard，interfaces and events as follows：
 
