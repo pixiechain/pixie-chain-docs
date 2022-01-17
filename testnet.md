@@ -6,6 +6,8 @@
 666
 ```
 
+You can search `Pixie Chain Testnet` from <https://chainlist.org> .
+
 ## RPC
 
 ```
@@ -15,14 +17,10 @@ wss://ws-testnet.chain.pixie.xyz
 
 ## Explorer
 
-```
-https://scan-testnet.chain.pixie.xyz
-```
+<https://scan-testnet.chain.pixie.xyz>
 
 ## Faucet
 
-Automatically send 5 PIX to your testnet account, and you can only request once a hour.
+Automatically send 5 PIX to your testnet account, and you can only request once an hour.
 
-```
-https://chain.pixie.xyz/faucet
-```
+<https://chain.pixie.xyz/faucet>
