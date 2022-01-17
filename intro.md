@@ -9,9 +9,6 @@ Pixie Chain is a decentralized, high-efficiency and energy-saving public chain. 
 ## Vision
 Pixie Chain's mission is not only a public chain, but also to focus on the discovery and support of high-potential developers and innovative projects. Pixie Chain will serve as the fundamental infrastructure for developers and teams who want to provide applications and services for digital content creation and trading in the cryptoeconomy.
 
-- Official Website: <https://chain.pixie.xyz>
-- Github: <https://github.com/pixiechain/pixie-chain>
-
 ## Pixie Chain’s Performance
 - TPS: 500+
 - Average block interval: 3s
