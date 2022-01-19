@@ -1,3 +1,7 @@
+<p align="center">
+    <img src="images/pixie_chain_logo.svg" alt="Pixie Chain Logo" width="256" height="256">
+</p>
+
 # Pixie Chain
 
 - Pixie Chain Official Website: https://chain.pixie.xyz
@@ -28,7 +32,7 @@ Miners pledge PIX to become validator nodes. The reward of nodes is gas fee, whi
 - Support the programmability of EVM, the compatibility of smart contracts to reduce development or migration costs.
 
 ## Interact with Us on Social Media
-- [Facebook](https://www.facebook.com/Pixie-102062365542011)
+- [Facebook](https://www.facebook.com/Pixie-104362245308470)
 - [Twitter](https://twitter.com/PixieApp)
 - [Youtube](https://www.youtube.com/channel/UCDb6btQSzsGEGG_UtGDrTJQ)
 - [Telegram](https://t.me/Pixiegroup)
