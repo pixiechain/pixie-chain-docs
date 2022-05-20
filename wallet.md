@@ -2,7 +2,7 @@
 
 Pixie Chain support wallets such as MetaMask.
 
-> NOTE: Check compitibility before using wallet, Ledger is not supported.
+> NOTE: Check compatibility before using wallet, Ledger is not supported.
 
 # MetaMask
 

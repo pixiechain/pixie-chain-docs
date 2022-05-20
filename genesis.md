@@ -33,6 +33,7 @@ Both the mainnet and testnet genesis information of `Pixie Chain` chain have bee
     "petersburgBlock": 0,
     "istanbulBlock": 0,
     "muirGlacierBlock": 0,
+    "wormholeBlock": 543137,
     "congress": {
       "period": 3,
       "epoch": 200
@@ -86,6 +87,7 @@ Both the mainnet and testnet genesis information of `Pixie Chain` chain have bee
     "petersburgBlock": 0,
     "istanbulBlock": 0,
     "muirGlacierBlock": 0,
+    "wormholeBlock": 512603,
     "congress": {
       "period": 3,
       "epoch": 200

@@ -6,6 +6,7 @@
 
 - Pixie Chain Official Website: https://chain.pixie.xyz
 - Pixie Chain Github: https://github.com/pixiechain/pixie-chain
+- Pixie Chain Docker image: https://hub.docker.com/r/pixiechain/pixiechain
 
 ## Introduction to Pixie Chain
 Pixie Chain is a decentralized, high-efficiency and energy-saving public chain. It is compatible with smart contracts and supports high-performance transactions. The native cryptocurrency of Pixie Chain is PIX and it adopts the PPoS consensus mechanism. Pixie Chain will continue to improve the efficiency of Ethereum by Layer2, which will supplement and empower the Ethereum ecosystem.
